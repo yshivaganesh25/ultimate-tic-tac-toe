@@ -4,6 +4,6 @@ found and rules are in AI_project_2017.pdf in repository.
 # How to play
 run python simulator.py [option]
 <option> can be 
-1 => Player42 vs. Random player
-2 => Player42 vs Human
-3 => Human vs. Human
+1 => Player42 vs. Random player\n
+2 => Player42 vs Human\n
+3 => Human vs. Human\n
